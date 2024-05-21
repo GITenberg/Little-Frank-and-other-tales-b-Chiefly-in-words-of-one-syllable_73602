@@ -1,0 +1,32 @@
+_repo: Little-Frank-and-other-tales-b-Chiefly-in-words-of-one-syllable_73602
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2024-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73602'
+language: en
+pgterms:marc905: 20240203171449author
+pgterms:marc906: '1838'
+pgterms:marc907: GB
+production_note: Richard Tonsing and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bDarton and Harvey, $c1838.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Little Frank and other tales : $b Chiefly in words of one syllable'
+url: http://www.gutenberg.org/ebooks/73602
